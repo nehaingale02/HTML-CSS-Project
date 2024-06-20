@@ -1,0 +1,26 @@
+body{
+    background-color: moccasin;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+h3{
+    color: purple;
+    /* text-align: center; */
+}
+h1{
+    color: brown;
+    /* text-align: center; */
+}
+form{
+    color:brown;
+    /* text-align: center; */
+}
+h5{
+    color:darkmagenta;
+    /* text-align: center; */
+}
+input{
+    color: darkgreen;
+    /* text-align: center; */
+}
